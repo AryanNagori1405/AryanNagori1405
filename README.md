@@ -2,7 +2,7 @@
 ### Hi, I'm Aryan Nagori ✨ 
 
 🧠 Computer science student at Dr.NSAM First Grade College<br/>
-👩‍💻 Learning to code in JAVA<br/>
+👩‍💻 Android Developer<br/>
 🌟 Mainly focusing on Data Structure and Algorithm<br/>
 👀 You can see my progress on Leetcode<br/>
 🔗 Link for my Leetcode account - https://leetcode.com/u/_aryan_nagori_0714_/<br/>
