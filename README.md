@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Aryan Nagori ✨</h1>
+<h1 align="center">Hi👋, I'm Aryan Nagori</h1>
 <h3 align="center">👩‍💻 I am an Android Developer</h3>
 
 🧠 Computer science student at Dr.NSAM First Grade College<br/>
-🌟 Focusing on Data Structure and Algorithm and MySQL<br/>
+🌟 Focusing on contribution to Open Source<br/>
+✨ Currently learning Data Structure and Algorithm and MySQL<br/>
 👀 You can see my progress on Leetcode - https://leetcode.com/u/_aryan_nagori_0714_/<br/>
 
 ## 🌐 Connect with me:
