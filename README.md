@@ -5,7 +5,7 @@
 🌟 Focusing on contribution to Open Source<br/>
 ✨ Currently learning Data Structure and Algorithm and MySQL<br/>
 👀 You can see my progress on LeetCode: [Click here](https://leetcode.com/u/aryan_nagori/)<br/>
-🔗 Here is my resume for more information: [Click here](https://github.com/aryannagori/aryannagori/raw/main/resume.pdf)
+🔗 Here is my resume for more information: [Click here](https://github.com/AryanNagori1405/AryanNagori1405/raw/main/Aryan%20Nagori.pdf)
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryan_nagori_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nagori-66504b342/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aryan_nagori) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28952564) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aryan_nagori) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Aryan_1405_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.nagori.a@gmail.com) 
