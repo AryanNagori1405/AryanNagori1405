@@ -2,13 +2,12 @@
 ### Hi, I'm Aryan Nagori ✨ 
 
 🧠 Computer science student at Dr.NSAM First Grade College<br/>
-👩‍💻 Android Developer<br/>
-🌟 Focusing on Data Structure and Algorithm<br/>
-👀 You can see my progress on Leetcode<br/>
-🔗 Link for my Leetcode account - https://leetcode.com/u/_aryan_nagori_0714_/<br/>
+👩‍💻 I am an Android Developer<br/>
+🌟 Focusing on Data Structure and Algorithm and MySQL<br/>
+👀 You can see my progress on ![Leetcode] (https://leetcode.com/u/_aryan_nagori_0714_/)<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryan_nagori_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nagori-66504b342/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aryan_nagori) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28952564) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aryan_nagori) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Aryan_1405_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryannikill123@gmail.com) 
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryan_nagori_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nagori-66504b342/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aryan_nagori) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28952564) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aryan_nagori) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Aryan_1405_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.nagori.a@gmail.com) 
 
 # 💻 Tech Stack:
 ## Programming Languages
