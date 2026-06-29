@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Aryan Nagori</h1>
-<h3 align="center">👩‍💻 I am an Android Developer</h3>
+<h3 align="center">👩‍💻 I am a Software Developer</h3>
 
 🧠 Computer science student at Dr.NSAM First Grade College<br/>
 🌟 Focusing on contribution to Open Source<br/>
