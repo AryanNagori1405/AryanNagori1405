@@ -1,42 +1,106 @@
-<h1 align="center">Hi👋, I'm Aryan Nagori</h1>
-<h3 align="center">👩‍💻 I am a Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Aryan Nagori</h1>
 
-🧠 Computer science student at Dr.NSAM First Grade College<br/>
-🌟 Focusing on contribution to Open Source<br/>
-✨ Currently learning Data Structure and Algorithm and MySQL<br/>
-👀 You can see my progress on LeetCode: [Click here](https://leetcode.com/u/aryan_nagori/)<br/>
-🔗 Here is my resume for more information: [Click here](https://github.com/AryanNagori1405/AryanNagori1405/raw/main/Aryan%20Nagori.pdf)
+<h3 align="center">☕ Java Backend Developer | Software Developer</h3>
+
+🧠 Computer Science Graduate from Dr. NSAM First Grade College<br/>
+🚀 Focused on Java Backend Development and the Spring ecosystem<br/>
+⚙️ Building applications with Java, Spring, Spring Boot, REST APIs and MySQL<br/>
+🧩 Interested in Data Structures, Algorithms, Backend Architecture and System Design<br/>
+🌟 Exploring Open Source and modern backend engineering practices<br/>
+👀 Problem solving: <a href="https://leetcode.com/u/aryan_nagori/">LeetCode</a><br/>
+🔗 <a href="https://github.com/AryanNagori1405/AryanNagori1405/raw/main/Aryan%20Nagori.pdf">View my Resume</a>
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryan_nagori_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-nagori-66504b342/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aryan_nagori) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28952564) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aryan_nagori) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Aryan_1405_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.nagori.a@gmail.com) 
 
-# 💻 Tech Stack:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aryan-nagori-66504b342/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode\&logoColor=black)](https://leetcode.com/u/aryan_nagori/)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/28952564)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@_Aryan_1405_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:aryannagori08@gmail.com)
+
+# 💻 Tech Stack
+
 ## Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+## Java & Backend Development
+
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
+![Servlets](https://img.shields.io/badge/Java_Servlets-5382A1?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+## Persistence & Database
+
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+## Build & Version Control
+
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
 ## Mobile Development
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-## Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-## Version Control & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## Core CS Skills
-![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=for-the-badge&logo=TheAlgorithms&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-%23E34F26.svg?style=for-the-badge&logo=leetcode&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%2300B2FF.svg?style=for-the-badge&logo=codewars&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryanNagori1405&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AryanNagori1405&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanNagori1405&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge\&logo=android\&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanNagori1405&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+## Core CS & Engineering
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Data Structures](https://img.shields.io/badge/Data_Structures-%2300599C.svg?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-%23E34F26.svg?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE.svg?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1.svg?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-%2300B2FF.svg?style=for-the-badge)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AryanNagori1405&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🚀 Current Focus
 
----
-[![](https://visitcount.itsvg.in/api?id=AryanNagori1405&icon=2&color=11)](https://visitcount.itsvg.in)
+Building **Java backend applications** and working through the Java backend ecosystem from fundamentals to modern application development.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+`Java` → `JDBC` → `Servlets` → `Spring MVC` → `Spring` → `Spring Boot` → `JPA` → `Hibernate` → `Spring Data JPA` → `REST APIs`
+
+Alongside this, I'm working with **MySQL, database design, application architecture, Data Structures & Algorithms and System Design**.
+
+# 💼 Experience
+
+### Full Stack & Mobile App Developer — Solident Technologies
+
+Worked on real-world application development during my hybrid internship.
+
+* Developed a cross-platform mobile application using **Flutter**
+* Worked on backend development using **Node.js**
+* Integrated mobile applications with backend REST APIs
+* Worked with real-world application requirements and development workflows
+
+# 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and problem solving on LeetCode.
+
+<a href="https://leetcode.com/u/aryan_nagori/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+# 🌱 Open Source
+
+Interested in contributing to open-source projects and collaborating with developers around the world.
+
+Areas of interest:
+
+`Java` `Backend Development` `Developer Tools` `Open Source`
+
+# 📊 GitHub Activity
+
+<p align="center">   <a href="https://github.com/AryanNagori1405">     <img src="https://img.shields.io/github/followers/AryanNagori1405?style=for-the-badge&logo=github&label=Followers"/>   </a>   <a href="https://github.com/AryanNagori1405?tab=repositories">     <img src="https://img.shields.io/github/stars/AryanNagori1405?style=for-the-badge&logo=github&label=Stars"/>   </a>   <a href="https://github.com/AryanNagori1405">     <img src="https://img.shields.io/github/last-commit/AryanNagori1405/AryanNagori1405?style=for-the-badge&logo=github&label=Last%20Commit"/>   </a> </p>
+
+
+
+<p align="center">
+  <i>Building with Java. Understanding the fundamentals. Engineering better systems.</i>
+</p>
