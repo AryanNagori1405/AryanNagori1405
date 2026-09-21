@@ -8,7 +8,7 @@
 🧩 Interested in Data Structures, Algorithms, Backend Architecture and System Design<br/>
 🌟 Exploring Open Source and modern backend engineering practices<br/>
 👀 Problem solving: <a href="https://leetcode.com/u/aryan_nagori/">LeetCode</a><br/>
-🔗 <a href="https://github.com/AryanNagori1405/AryanNagori1405/raw/main/Aryan%20Nagori.pdf">View my Resume</a>
+🔗 <a href="https://github.com/AryanNagori1405/AryanNagori1405/blob/main/Aryan%20Nagori.pdf">View my Resume</a>
 
 ## 🌐 Connect with me:
 
